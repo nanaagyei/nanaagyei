@@ -10,7 +10,7 @@ I've been learning to code for 6 years, even throughout my journey as a mathemat
 * 🖥️  See my portfolio at [My Website](http://princeagyeituffour.com)
 * ✉️  You can contact me at [tuffourp@oregonstate.edu](mailto:tuffourp@oregonstate.edu)
 * 🚀  I'm currently working on [Updating my blog website](http://github.com/nanaagyei/blog-website)
-* 🧠  I'm learning Django, MongoDB, PyTorch, Nextjs
+* 🧠  I'm learning Backend Dev, Machine Learning and Deep Learning
 * 🤝  I'm open to collaborating on machine learning and software engineering projects
 
 ### Skills
