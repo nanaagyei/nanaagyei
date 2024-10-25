@@ -8,9 +8,9 @@ I've been learning to code for 6 years, even throughout my journey as a mathemat
 
 * 🌍  I'm based in Corvallis, OR
 * 🖥️  See my portfolio at [My Website](http://princeagyeituffour.com)
-* ✉️  You can contact me at [tuffourp@oregonstate.edu](mailto:tuffourp@oregonstate.edu)
-* 🚀  I'm currently working on [Updating my blog website](http://github.com/nanaagyei/blog-website)
-* 🧠  I'm learning Backend Dev, Machine Learning and Deep Learning
+* ✉️  You can contact me at [nana.tuffour@oregonstate.edu](mailto:nana.tuffour@oregonstate.edu)
+* 🚀  I'm currently working on [Fixing my blog website](http://github.com/nanaagyei/blog-website)
+* 🧠  I'm learning Machine Learning, Deep Learning, Backend with Python, Go, and Typescript
 * 🤝  I'm open to collaborating on machine learning and software engineering projects
 
 ### Skills
