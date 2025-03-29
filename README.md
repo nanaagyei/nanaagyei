@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prince Agyei Tuffour
 ============================================================================================================================================
 
-Mathematician | ML Engineer
----------------------------
+Mathematician | Software QA Engineer | ML Engineer
+--------------------------------------------------
 
-I've been learning to code for 6 years, even throughout my journey as a mathematician. My passion for machine learning and software engineering grew after learning backend engineering with Flask. After that, I also took courses in machine learning and completely loved it. The fact that I could see how math is applied to these concepts fascinated me and I have been hooked since then.
+I've been learning to code for over seven years, even throughout my journey as a mathematician. My passion for machine learning and software engineering grew after I learned backend engineering with Flask. After that, I also took courses in machine learning and completely loved them. The fact that I could see how math is applied to these concepts fascinated me, and I have been hooked since then.
 
-* 🌍  I'm based in Corvallis, OR
-* 🖥️  See my portfolio at [My Website](http://princeagyeituffour.com)
-* ✉️  You can contact me at [nana.tuffour@oregonstate.edu](mailto:nana.tuffour@oregonstate.edu)
-* 🚀  I'm currently working on [Fixing my blog website](http://github.com/nanaagyei/blog-website)
+* 🌍  I'm based in Austin, TX
+* 🖥️  See my portfolio at [prince.agyei.tuffour@gmail.com](mailto:prince.agyei.tuffour@gmail.com)
+* 🚀  I'm currently working on [GradGPT.pro](http://gradgpt.pro)
 * 🧠  I'm learning Machine Learning, Deep Learning, Backend with Python, Go, and Typescript
 * 🤝  I'm open to collaborating on machine learning and software engineering projects
 
