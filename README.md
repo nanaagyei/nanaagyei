@@ -2,7 +2,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 ============================================================================================================================================
 
 ## 💫 About Me:
-* Hi there! My name is Prince Agyei Tuffour. <br>
+My name is Prince Agyei Tuffour. <br>
 | Software QA Engineer | ML Engineer | Applied Math | Software Engineering<br>
 * 🌍  I'm based in Austin, TX <br>
 * 🖥️  See my portfolio at [princeagyeituffour.com](https://princeagyeituffour.com) <br>
